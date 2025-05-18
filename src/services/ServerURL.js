@@ -1,1 +1,1 @@
-export const baseURL = 'https://workout-logger-server.onrender.com/'
+export const baseURL = 'https://workout-logger-server.onrender.com'
